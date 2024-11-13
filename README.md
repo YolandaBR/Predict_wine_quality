@@ -1,0 +1,5 @@
+- Problema / Objetivo: Predecir la calidad del vino en base a datos provenientes de pruebas fisicoquímicas
+- Datos supervisados
+- Tipo problema: Clasificación -> Datos que llevan a poner una nota del 0 al 10 en números enteros (11 categorías posibles).
+- CSV, tablas
+- Datos físicoquímicos y nota del vino portugués "Vinho Verde"--> referencia [Cortez et al., 2009].
